@@ -1,0 +1,5 @@
+How might one use for loops with gradients?
+
+Describe the process as best as you can.
+
+You may be able to use "for loops" with gradients by looping through the colors. For instance, you'd be able to loop through colors to make different backgrounds, or something else.
