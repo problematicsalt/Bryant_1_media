@@ -1,0 +1,11 @@
+We will be having a semester exam.
+
+What commands will you be expected to reproduce?
+
+Which skills will you be asked to demonstrate?
+
+Oh, boy. A semester exam. Well, uh, gee. 
+I'm sure the commands for fonts and/or images (putting text on image, gradient images, etc etc) will be expected for us to reproduce. Probably that Void setup stuff as well, definitely everything involving Pango too. Maybe those .gif things we made as well? 
+
+As for skills, I'm sure at the very least we'll be expected to take what we've been given and expand on that. Like, we learned codes for for loops, and we're expected to expand on that and apply it to making different kinds of images. Other than that, anything that involves the basic codes we learned so far this year. 
+
