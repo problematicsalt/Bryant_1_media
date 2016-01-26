@@ -1,0 +1,2 @@
+How can you loop through all the possible fonts for image magick? [Be specific]
+convert -list font|grep Font|sed -e"s/Font://g">fonts.txt

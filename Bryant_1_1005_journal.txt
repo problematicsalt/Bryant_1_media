@@ -1,0 +1,2 @@
+What is git? Why do we use it?
+Git is used for software development, and is a version control system.

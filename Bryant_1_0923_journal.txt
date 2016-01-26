@@ -1,0 +1,4 @@
+What successes have you had in making your images?
+	Well, I've been able to create one gif file with different background colors for all my pango files. But, I haven't been able to figure out how to apply my newfound knowledge to completing these next few assignments. And this is a problem. A huge one, that is also a me problem.
+How do we use "for" for loops to create images?
+	From what I know, we use double for loops to loop through different colors for the foreground and background to create animated images.
