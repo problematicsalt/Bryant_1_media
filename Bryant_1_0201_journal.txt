@@ -1,0 +1,33 @@
+  GNU nano 2.4.2            File: Bryant_1_0201_journal.txt                                
+
+Seeing as I have yet to get the parts for my project (because I've neglected finishing my $
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     [ Read 2 lines ]
+^G Get Help    ^O Write Out   ^W Where Is    ^K Cut Text    ^J Justify     ^C Cur Pos
+^X Exit        ^R Read File   ^\ Replace     ^U Uncut Text  ^T To Spell    ^_ Go To Line
+

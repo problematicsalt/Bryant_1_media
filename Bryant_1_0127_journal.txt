@@ -1,0 +1,11 @@
+1) "Electret Microphone Amplifier - MAX4466 with Adjustable Gain", $6.95, https://www.adafruit.com/products/1063.
+As stated on the item's description, you can use this amplifier for projects involving audio-reactivity (using FFT), voice changers, as well as audio recording.
+2) "TMP36 - Analog Temperature sensor - TMP36", $1.50, https://www.adafruit.com/products/165
+This can be used for any project involving temperature sensing, I'm sure. For instance, if you wanted to make a project that produces an electric shock or a sound when your body reaches a certain temperature, this is probably what you need. Bam. Perfect.
+3)"PIR (motion) Sensor", $9.95, https://www.adafruit.com/products/189
+You can probably make a project helping you swipe to the left or right to show different images.
+4) "BMP180 Barometric Pressure/Temperature/Altitude Sensor- 5V ready", $9.95, https://www.adafruit.com/products/1603
+I'm using something like this for my project, which involves detecting when my device is in freefall. O
+5) "Flex Sensor 2.2"", $7.95, https://www.sparkfun.com/products/10264
+'As the sensor is flexed, the resistance across the sensor increases' (grabbed from the item's description). You could use this for gloves and things of that nature.
+
